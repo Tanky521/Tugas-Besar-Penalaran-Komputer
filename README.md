@@ -83,7 +83,7 @@ CBR-Court-Decision/
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/CBR-Court-Decision.git
+git clone https://github.com/Tanky521/Tugas-Besar-Penalaran-Komputer.git
 cd CBR-Court-Decision
 ```
 
