@@ -86,12 +86,6 @@ git clone https://github.com/Tanky521/Tugas-Besar-Penalaran-Komputer.git
 cd Tugas-Besar-Penalaran-Komputer
 ```
 
-Install required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## Required Libraries
