@@ -1,0 +1,22 @@
+[
+    {
+        "query_id": 1,
+        "query": "persetubuhan terhadap anak dibawah umur"
+    },
+    {
+        "query_id": 2,
+        "query": "pelecehan seksual terhadap anak"
+    },
+    {
+        "query_id": 3,
+        "query": "pencabulan terhadap korban"
+    },
+    {
+        "query_id": 4,
+        "query": "kekerasan seksual"
+    },
+    {
+        "query_id": 5,
+        "query": "hubungan badan dengan anak"
+    }
+]
