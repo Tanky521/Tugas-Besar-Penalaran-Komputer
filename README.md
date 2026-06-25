@@ -84,7 +84,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Tanky521/Tugas-Besar-Penalaran-Komputer.git
-cd CBR-Court-Decision
+cd Tugas-Besar-Penalaran-Komputer
 ```
 
 Install required packages:
