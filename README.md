@@ -53,7 +53,7 @@ Dataset Attributes:
 ## Project Structure
 
 ```text
-CBR-Court-Decision/
+Tugas-Besar-Penalaran-Komputer/
 │
 ├── data/
 │   ├── raw/
@@ -72,7 +72,6 @@ CBR-Court-Decision/
 │   ├── 04_case_solution_reuse.ipynb
 │   └── 05_model_evaluation.ipynb
 │
-├── requirements.txt
 └── README.md
 ```
 
