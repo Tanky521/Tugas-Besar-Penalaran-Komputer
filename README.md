@@ -23,10 +23,10 @@ The project follows the standard CBR cycle:
 
 ## Team Members
 
-| Name                 | Student ID      |
-| -------------------- | --------------- |
-| Noval Kurniawan Kodi | 202310370311213 |
-| Bintang Nazwar | 202310370311063 |
+| Name                 | Student ID      | Class    |
+| -------------------- | --------------- | -------- |
+| Noval Kurniawan Kodi | 202310370311213 | B        |
+| Bintang Nazwar | 202310370311063 | D      |
 
 ---
 
